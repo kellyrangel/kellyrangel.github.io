@@ -1,4 +1,4 @@
-![Image](images/w (1).png)
+<img src="images/w (1).png"/>
 
 # Welcome to My Portfolio
 
