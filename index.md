@@ -7,10 +7,9 @@
 ### Learn About My Projects
 
 [<img src="images/Add a heading (2).png"/>](https://www.linkedin.com/pulse/doordash-sales-analysis-using-excel-kelly-rangel/)
-#### '#3d251e'[DoorDash Sales: An Analysis Using Excel](https://www.linkedin.com/pulse/doordash-sales-analysis-using-excel-kelly-rangel/)
+#### [DoorDash Sales: An Analysis Using Excel](https://www.linkedin.com/pulse/doordash-sales-analysis-using-excel-kelly-rangel/)
 I'm excited to share my data analysis project! In this case study, I take on the role of a data analyst for DoorDash to provide business insights using Excel.
 
-<span style="color:red">red text </span>.
 
 
 ---
