@@ -1,3 +1,5 @@
+![Image](images/w (1).png)
+
 # Welcome to My Portfolio
 
 ---
