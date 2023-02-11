@@ -6,6 +6,9 @@
 
 ### Learn About My Projects
 
+#### [External Link Project](https://www.linkedin.com/pulse/doordash-sales-analysis-using-excel-kelly-rangel/)
+[<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
+I'm excited to share my data analysis project! In this case study, I take on the role of a data analyst for DoorDash to provide business insights using Excel. 
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 #### [Internal Blog Post Project](/bank)
