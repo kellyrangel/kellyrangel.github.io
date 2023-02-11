@@ -10,6 +10,9 @@
 #### '#3d251e'[DoorDash Sales: An Analysis Using Excel](https://www.linkedin.com/pulse/doordash-sales-analysis-using-excel-kelly-rangel/)
 I'm excited to share my data analysis project! In this case study, I take on the role of a data analyst for DoorDash to provide business insights using Excel.
 
+<span style="color:borwn">some *This is Blue italic.* text</span>
+
+
 ---
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
