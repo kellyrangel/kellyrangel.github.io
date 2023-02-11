@@ -1,9 +1,10 @@
-title: Zeina Roz # your name (or website title) here
+title: Kelly Rangel # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  It;s almost christmas 
-  I want some pizza  <br><br>
-  <a href="https://www.linkedin.com/in/averyjsmith/">View My LinkedIn Profile</a> 
+  Data Analyst, Data Visualization  <br><br>
+  Applied Mathematics Graduate <br><br>
+  Excel, Tableau, SQL, Python <br><br>
+  <a href="https://www.linkedin.com/in/kellyjrangel/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
