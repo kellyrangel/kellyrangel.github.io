@@ -1,10 +1,10 @@
 title: Kelly Rangel # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+logo: "images/Screen Shot 2023-02-11 at 11.47.10 AM.png" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Data Analyst, Data Visualization  <br><br>
-  Applied Mathematics Graduate <br><br>
+  Data Analyst, Data Visualization  <br>
+  Applied Mathematics Graduate <br>
   Excel, Tableau, SQL, Python <br><br>
   <a href="https://www.linkedin.com/in/kellyjrangel/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+#google_analytics: UA-000000-0 # your Google Analytics tracking ID here
