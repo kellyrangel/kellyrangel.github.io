@@ -3,9 +3,10 @@ logo: "images/Screen Shot 2023-02-11 at 11.47.10 AM.png" # your photo (or logo) 
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Data Analyst, Applied Mathematics Graduate <br>
   SQL, Excel, Data Visualization, Tableau, Python <br><br>
-  Contact me:
+  Contact me: <br>
+  kellyrangel08@gmail.com <br>
   <a href="https://www.linkedin.com/in/kellyjrangel/">LinkedIn</a> <br>
-  <a href="https://public.tableau.com/app/profile/kelly.rangel">Tableau Public</a>
+  <a href="https://public.tableau.com/app/profile/kelly.rangel">Tableau Public</a><br>
   
 theme: jekyll-theme-minimal
 #google_analytics: UA-000000-0 # your Google Analytics tracking ID here
