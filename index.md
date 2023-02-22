@@ -6,6 +6,12 @@
 
 ### Learn About My Projects
 
+[<img src="images/Add a heading (2).png"/>](https://www.linkedin.com/pulse/massachusetts-education-analysis-using-tableau-kelly-rangel/)
+#### [Massachusetts Education: An Analysis Using Tableau](https://www.linkedin.com/pulse/massachusetts-education-analysis-using-tableau-kelly-rangel/)
+I'm excited to share my data analysis project in Tableau! In this case study, I'm hired by the State of Massachusetts to analyze and provide insights on their education data.
+
+---
+
 [<img src="images/Add a heading (2).png"/>](https://www.linkedin.com/pulse/doordash-sales-analysis-using-excel-kelly-rangel/)
 #### [DoorDash Sales: An Analysis Using Excel](https://www.linkedin.com/pulse/doordash-sales-analysis-using-excel-kelly-rangel/)
 I'm excited to share my data analysis project! In this case study, I take on the role of a data analyst for DoorDash to provide business insights using Excel.
