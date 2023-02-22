@@ -2,7 +2,7 @@
 
 # Welcome to My Portfolio
 
----
+
 
 ### Learn About My Projects
 
@@ -26,37 +26,15 @@ I'm excited to share my data analysis project! In this case study, I take on the
 #### [The Complete SQL Bootcamp: Go from Zero to Hero](sample_project.md)
 
 
----
-#### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
-<img src="images/21 Days To Data Challenge.png?raw=true"/>
-For this project, I explored what a good analytics PowerPoint presentation should entail. It talks about main talking points, how to tie data to the business value, and much more. 
-
----
-#### [External Link Project](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
-[<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
-My final write up for Avery Smith's 21 Days To Data project covering New York City crime data. 
-
-
----
-#### [Education Project](https://www.linkedin.com/pulse/massachusetts-education-analysis-samantha-paul/)
-[<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
-In this case study from Data Analytics Accelerator, I was prompted to analyze the State of Massachusetts education data. The main focuses were:
-What schools are struggling the most?
-How does class size affect college admission?
-What are the top math schools in the state? 
+ 
 
 ---
 
-### Category Name 2
+### Certifications
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
+- [Excel Certificate (DoorDash Challenge) - Data Career Jumpstart](https://www.datacareerjumpstart.com/excel-badge?cid=f651e658-c9fa-4e98-808b-883dc9fd2220)
+- [Tableau Basics Certificate (Education Challenge) - Data Career Jumpstart](https://www.datacareerjumpstart.com/tableau1badge?cid=f651e658-c9fa-4e98-808b-883dc9fd2220)
+- [The Complete SQL Bootcamp: From Zero to Hero - Udemy](https://www.udemy.com/certificate/UC-16e99013-278a-4e8e-8ed5-9f4ef805bd1d/)
 
 
 
