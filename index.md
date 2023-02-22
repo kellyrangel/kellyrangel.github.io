@@ -1,10 +1,9 @@
 <img src="images/w (1).png"/>
 
-# Welcome to My Portfolio
+# Welcome to My Data Portfolio
 
 
 
-### Learn About My Projects
 
 [<img src="images/Massachusetts Education An Analysis Using Tableau.png"/>](https://www.linkedin.com/pulse/massachusetts-education-analysis-using-tableau-kelly-rangel/)
 ### [Massachusetts Education: An Analysis Using Tableau](https://www.linkedin.com/pulse/massachusetts-education-analysis-using-tableau-kelly-rangel/)
