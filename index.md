@@ -17,8 +17,8 @@ I'm excited to share my data analysis project! In this case study, I take on the
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-#### [Internal Blog Post Project](sample_project.md)
-Tolulope is the best
+#### [The Complete SQL Bootcamp: Go from Zero to Hero](sample_project.md)
+
 
 ---
 #### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
