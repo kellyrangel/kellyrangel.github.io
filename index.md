@@ -28,7 +28,7 @@ In this case study, I'm hired by Longwood Laser Engraving's to provide financial
 
 
 ---
-
+<img src="images/sql movie data.png?raw=true"/>
 ### [The Complete SQL Bootcamp: Go from Zero to Hero](sample_project.md)
 
 
