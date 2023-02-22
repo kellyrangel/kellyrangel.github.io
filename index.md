@@ -17,7 +17,7 @@ I'm excited to share my data analysis project! In this case study, I take on the
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-#### [Internal Blog Post Project](/bank)
+#### [Internal Blog Post Project](sample_project.md)
 Tolulope is the best
 
 ---
