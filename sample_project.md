@@ -17,3 +17,10 @@ print('this is the python code I used to solve this problem')
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 
+'''SQL
+select * from t1
+full outer join t2
+on t1.colmatch=t2.colmatch
+where t1.id is null or
+t2.id is null
+'''
