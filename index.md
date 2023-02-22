@@ -6,7 +6,7 @@
 
 ### Learn About My Projects
 
-[<img src="images/Add a heading (2).png"/>](https://www.linkedin.com/pulse/massachusetts-education-analysis-using-tableau-kelly-rangel/)
+[<img src="images/Massachusetts Education An Analysis Using Tableau.png"/>](https://www.linkedin.com/pulse/massachusetts-education-analysis-using-tableau-kelly-rangel/)
 #### [Massachusetts Education: An Analysis Using Tableau](https://www.linkedin.com/pulse/massachusetts-education-analysis-using-tableau-kelly-rangel/)
 I'm excited to share my data analysis project in Tableau! In this case study, I'm hired by the State of Massachusetts to analyze and provide insights on their education data.
 
