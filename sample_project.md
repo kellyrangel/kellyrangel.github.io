@@ -1,3 +1,16 @@
+## Analyzing Movie Rental Data With SQL
+My dataset:
+
+What I'm challenged to do:
+- task 1
+- task 2
+- task 3
+
+My code: 
+
+My output:
+
+
 ## This can be a template for an internal prject
 
 **Project description:** You can use this template to create projects in the future. Simply duplicate the page and change the text and images. 
