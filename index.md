@@ -21,7 +21,14 @@ I'm excited to share my data analysis project! In this case study, I take on the
 
 ---
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+<img src="images/LLE FS.png?raw=true"/>
+
+### [Longwood Laser Engraving: Financial Statements](sample_project.md)
+In this case study, I'm hired by Longwood Laser Engraving's to provide financial statements. 
+
+
+---
 
 ### [The Complete SQL Bootcamp: Go from Zero to Hero](sample_project.md)
 
