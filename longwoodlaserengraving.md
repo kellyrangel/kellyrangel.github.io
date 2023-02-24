@@ -1,4 +1,5 @@
-# Longwood Laser Engraving: Financial Statements
+# Longwood Laser Engraving: Financial Statements Using Excel
+
 
 ## Introduction
 In this case study, we are hired by Longwood Laser Engraving to provide financial statements using Excel. We are asked for:
@@ -27,7 +28,7 @@ We used arithmetic operators (subtraction, multiplication, division), the SUM() 
 
 <img src="images/income statements.png?raw=true"/>
 
-We used arithmetic operators (subtraction, addition, multiplication), the SUM() function, and references to other cells to construct formulas and recreate the Balance Sheet. To duplicate the formatting, we changed the font (bold, italic), increased indents, changed the fill color, added borders, and changed the number format (currency, percent, decimals).
+To construct formulas and recreate the Balance Sheet, we used arithmetic operators (subtraction, addition, multiplication), the SUM() function, and references to other cells. To duplicate the formatting, we changed the font (bold, italic), increased indents, changed the fill color, added borders, and changed the number format (currency, percent, decimals).
 
 **Our Balance Sheet with formulas shown:** 
 
