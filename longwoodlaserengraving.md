@@ -12,7 +12,11 @@ We use formulas, references, formatting, and other tools in Excel to create our 
 
 Our complete financial statements can be found [here](https://drive.google.com/drive/folders/1dpJE3-EFm5VbwNiuN-lKzWQC7l3n6_P4?usp=sharing).
 
-My dataset:
+### Income Statements and Balance Sheet
+We are asked to recreate the following Income Statements and Balance Sheet using formulas wherever possible. We are also asked to duplicate the formatting exactly.
+Orignial Data:
+<img src="images/original data - income statements.png?raw=true"/>
+<img src="images/original data - balance sheet.png?raw=true"/>
 
 
 
