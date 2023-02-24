@@ -1,10 +1,20 @@
-## Analyzing Movie Rental Data With SQL
+## Longwood Laer Engraving: Financial Statements
+
+### Introduction
+In this case study, we are hired by Longwood Laser Engraving to provide financial statements using Excel. We are asked for:
+- Income Statements for the years 2008 and 2009
+- Balance Sheet for the year ended December 31, 2009
+- Statement of Cash Flows for the year ended December 31, 2009
+- Income Statements for the years 2008 and 2009 (common size)
+- Balance Sheet for the year ended December 31, 2009 (common size)
+
+We use formulas, references, formatting, and other tools in Excel to create our financial statements. 
+
+Our complete financial statements can be found [here](https://drive.google.com/drive/folders/1dpJE3-EFm5VbwNiuN-lKzWQC7l3n6_P4?usp=sharing).
+
 My dataset:
 
-What I'm challenged to do:
-- task 1
-- task 2
-- task 3
+
 
 My code: 
 
