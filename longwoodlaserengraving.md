@@ -47,6 +47,9 @@ How:
 
 <img src="images/income statements common-size.png?raw=true"/>
 
+<img src="images/balance sheet common-size formulas.png?raw=true"/>
+
+<img src="images/balance sheet common-size.png?raw=true"/>
 
 
 
@@ -55,16 +58,7 @@ How:
 
 
 
-## This can be a template for an internal prject
 
 **Project description:** You can use this template to create projects in the future. Simply duplicate the page and change the text and images. 
 
 Be sure to follow *The Interesting Project Template* as shown in [**The Data Science Project Studio**](https://www.datacareerjumpstart.com/products/the-data-science-project-studio/categories/2150357707/posts/2158441592). 
-
-### 1. You can have sections and text.
-
-
-
-### 2. You can add any images you'd like. 
-
-
