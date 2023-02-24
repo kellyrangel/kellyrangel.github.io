@@ -18,9 +18,9 @@ I'm excited to share my data analysis project! In this case study, I take on the
 ---
 
 
-<img src="images/LLE FS.png?raw=true"/>
+[<img src="images/LLE FS.png?raw=true"/>](longwoodlaserengraving.md)
 
-### [Longwood Laser Engraving: Financial Statements](sample_project.md)
+### [Longwood Laser Engraving: Financial Statements](longwoodlaserengraving.md)
 In this case study, I'm hired by Longwood Laser Engraving's to provide financial statements. 
 
 
