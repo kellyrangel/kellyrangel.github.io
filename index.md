@@ -24,7 +24,7 @@ I'm excited to share my data analysis project! In this case study, I take on the
 In this case study, I'm hired by Longwood Laser Engraving's to provide financial statements using Excel. 
 
 
----
+
 <!-- <img src="images/sql movie data.png?raw=true"/>
 
 ### [The Complete SQL Bootcamp: Go from Zero to Hero](sample_project.md)
