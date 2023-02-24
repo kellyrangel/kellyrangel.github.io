@@ -18,7 +18,7 @@ We are asked to recreate the following Income Statements and Balance Sheet using
 
 <img src="images/original data - balance sheet.png?raw=true"/>
 
-We used arithmetic operators (subtraction, multiplication, division), the SUM() function, and references to other cells to construct formulas and recreate the Income Statements. To duplicate the formatting, we changed the font to bold, increased indents, changed the fill color, added borders, and changed the number format (currency, percent, decimals).
+We used arithmetic operators (subtraction, multiplication, division), the SUM() function, and references to other cells to construct formulas and recreate the Income Statements. To duplicate the formatting, we change the font to bold, increase indents, change the fill color, add borders, and change the number format (currency, percent, decimals).
 
 **Our Income Statements with formulas shown:** 
 
@@ -28,7 +28,7 @@ We used arithmetic operators (subtraction, multiplication, division), the SUM() 
 
 <img src="images/income statements.png?raw=true"/>
 
-To construct formulas and recreate the Balance Sheet, we used arithmetic operators (subtraction, addition, multiplication), the SUM() function, and references to other cells. To duplicate the formatting, we changed the font (bold, italic), increased indents, changed the fill color, added borders, and changed the number format (currency, percent, decimals).
+To construct formulas and recreate the Balance Sheet, we used arithmetic operators (subtraction, addition, multiplication), the SUM() function, and references to other cells. To duplicate the formatting, we change the font (bold, italic), increase indents, change the fill color, add borders, and change the number format (currency, decimals).
 
 **Our Balance Sheet with formulas shown:** 
 
@@ -39,19 +39,24 @@ To construct formulas and recreate the Balance Sheet, we used arithmetic operato
 <img src="images/balance sheet.png?raw=true"/>
 
 ## Statement of Cash Flows
-We are asked to recreate a Statement of Cash Flows for 2009. We are challenged to not enter any numbers on this worksheet. All formulas should be linked directly to the source on previous worksheets. We are then asked to use Excel's outlining feature to create an outline that, when collapsed, shows only the subtotals for each section.
-
+Next, we are asked to recreate a Statement of Cash Flows for 2009. We are challenged to not enter any numbers on this worksheet; all formulas should be linked directly to the source on previous worksheets. We are also asked to use Excel's outlining feature to create an outline that, when collapsed, shows only the subtotals for each section.
 <img src="images/original data - statement of cash flows.png?raw=true"/>
 
+To recreate the Statement of Cash Flows, we use references to our previous worksheets, the arithmetic operator for subtraction, and the SUM() function. To duplicate the formatting, we change the font (bold, italic), increase indents, add borders, and change the number format (currency, decimals). To create an outline, we use the Group option under Data section. 
 
-How:
+**Our Statement of Cash Flows with formulas shown:** 
+
 <img src="images/statement of cash flows formulas.png?raw=true"/>
+
+**Our Statement of Cash Flows:** 
 
 <img src="images/statement of cash flows.png?raw=true"/>
 
+**Our Collapsed Statement of Cash Flows:** 
+
 <img src="images/statement of cash flows collapsed.png?raw=true"/>
 
-## Common-size Income Statements and Balance Sheet
+## Common-Size Income Statements and Balance Sheet
 
 
 <img src="images/income statements common-size formulas.png?raw=true"/>
@@ -68,8 +73,3 @@ How:
 
 
 
-
-
-**Project description:** You can use this template to create projects in the future. Simply duplicate the page and change the text and images. 
-
-Be sure to follow *The Interesting Project Template* as shown in [**The Data Science Project Studio**](https://www.datacareerjumpstart.com/products/the-data-science-project-studio/categories/2150357707/posts/2158441592). 
