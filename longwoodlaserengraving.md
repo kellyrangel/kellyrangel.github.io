@@ -42,7 +42,7 @@ To construct formulas and recreate the Balance Sheet, we used arithmetic operato
 Next, we are asked to recreate a Statement of Cash Flows for 2009. We are challenged to not enter any numbers on this worksheet; all formulas should be linked directly to the source on previous worksheets. We are also asked to use Excel's outlining feature to create an outline that, when collapsed, shows only the subtotals for each section.
 <img src="images/original data - statement of cash flows.png?raw=true"/>
 
-To recreate the Statement of Cash Flows, we use references to our previous worksheets, the arithmetic operator for subtraction, and the SUM() function. To duplicate the formatting, we change the font (bold, italic), increase indents, add borders, and change the number format (currency, decimals). To create an outline, we use the Group option under Data section. 
+To recreate the Statement of Cash Flows, we use references to our previous worksheets, the arithmetic operator for subtraction, and the SUM() function. To duplicate the formatting, we change the font (bold, italic), increase indents, add borders, and change the number format (currency, decimals). To create an outline, we use the Group option under the Data section. 
 
 **Our Statement of Cash Flows with formulas shown:** 
 
@@ -58,18 +58,26 @@ To recreate the Statement of Cash Flows, we use references to our previous works
 
 ## Common-Size Income Statements and Balance Sheet
 
+We are asked to create a common-size Income Statement and Balance Sheet for 2008 and 2009. These statements should have all formulas linked directly to previous worksheets. 
+
+We use references to our previous worksheets and the arithmetic operator for division to achieve this.
+
+**Our Common-Size Income Statement with formulas shown:** 
 
 <img src="images/income statements common-size formulas.png?raw=true"/>
 
+**Our Common-Size Income Statement:** 
+
 <img src="images/income statements common-size.png?raw=true"/>
+
+**Our Common-Size Balance Sheet with formulas shown:** 
 
 <img src="images/balance sheet common-size formulas.png?raw=true"/>
 
+**Our Common-Size Balance Sheet:** 
+
 <img src="images/balance sheet common-size.png?raw=true"/>
 
+## Conclusion
 
-
-
-
-
-
+We are able to create and recreate financial statments with several tools in Excel. Using these tools, we can be efficient and provide well-organized financial statements. 
