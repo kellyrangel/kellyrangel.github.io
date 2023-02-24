@@ -1,4 +1,4 @@
-## Longwood Laer Engraving: Financial Statements
+## Longwood Laser Engraving: Financial Statements
 
 ### Introduction
 In this case study, we are hired by Longwood Laser Engraving to provide financial statements using Excel. We are asked for:
@@ -25,9 +25,14 @@ Balance sheet:
 <img src="images/balance sheet.png?raw=true"/>
 
 ### Statement of Cash Flows
-We are asked to recreate a Statement of Cash Flows for 2009. We are challenged to not enter any numbers on this worksheet. All formulas should be linked directly to the source on previous worksheets. 
+We are asked to recreate a Statement of Cash Flows for 2009. We are challenged to not enter any numbers on this worksheet. All formulas should be linked directly to the source on previous worksheets. We are then asked to use Excel's outlining feature to create an outline that, when collapsed, shows only the subtotals for each section.
 
+<img src="images/original data - statement of cash flows.png?raw=true"/>
 
+How:
+<img src="images/statement of cash flows formulas.png?raw=true"/>
+<img src="images/statement of cash flows.png?raw=true"/>
+<img src="images/statement of cash flows collapsed.png?raw=true"/>
 
 
 
@@ -50,21 +55,8 @@ Be sure to follow *The Interesting Project Template* as shown in [**The Data Sci
 
 ### 1. You can have sections and text.
 
-Just like this. And you can even add internal coding blocks
 
-```python
-print('this is the python code I used to solve this problem')
-```
 
 ### 2. You can add any images you'd like. 
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-
-```SQL
-select * from t1
-full outer join t2
-on t1.colmatch=t2.colmatch
-where t1.id is null or
-t2.id is null
-```
