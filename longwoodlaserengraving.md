@@ -4,7 +4,7 @@
 In this case study, we are hired by Longwood Laser Engraving to provide financial statements using Excel. We are asked for:
 - Income Statements for the years 2008 and 2009, Balance Sheet for the year ended December 31, 2009
 - Statement of Cash Flows for 2009
-- Income Statements for the years 2008 and 2009, Balance Sheet for the year ended December 31, 2009 (common size)
+- Income Statements for the years 2008 and 2009, Balance Sheet for the year ended December 31, 2009 (common-size)
 
 We use formulas, references, formatting, and other tools in Excel to create our financial statements. 
 
@@ -14,13 +14,20 @@ Our complete financial statements can be found [here](https://drive.google.com/d
 We are asked to recreate the following Income Statements and Balance Sheet using formulas wherever possible. We are also asked to duplicate the formatting exactly.
 <img src="images/original data - income statements.png?raw=true"/>
 
+
 <img src="images/original data - balance sheet.png?raw=true"/>
 
-How I did it:
+We used arithmetic operators (subtraction, multiplication, division), the SUM() function, and references to other cells to construct formulas and recreate the Income Statements. To duplicate the formatting, we changed the font to bold, increased indents, changed the fill color, added borders, and changed the number format (currency, percent, decimals).
+
+**Our worksheet with formulas shown:** 
 
 <img src="images/income statements formulas.png?raw=true"/>
 
+**Our Income Statements:**
+
 <img src="images/income statements.png?raw=true"/>
+
+We used 
 
 Balance sheet:
 <img src="images/balance sheet formulas.png?raw=true"/>
