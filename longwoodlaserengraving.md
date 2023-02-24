@@ -19,7 +19,7 @@ We are asked to recreate the following Income Statements and Balance Sheet using
 
 We used arithmetic operators (subtraction, multiplication, division), the SUM() function, and references to other cells to construct formulas and recreate the Income Statements. To duplicate the formatting, we changed the font to bold, increased indents, changed the fill color, added borders, and changed the number format (currency, percent, decimals).
 
-**Our worksheet with formulas shown:** 
+**Our Income Statements with formulas shown:** 
 
 <img src="images/income statements formulas.png?raw=true"/>
 
@@ -27,10 +27,13 @@ We used arithmetic operators (subtraction, multiplication, division), the SUM() 
 
 <img src="images/income statements.png?raw=true"/>
 
-We used 
+We used arithmetic operators (subtraction, addition, multiplication), the SUM() function, and references to other cells to construct formulas and recreate the Balance Sheet. To duplicate the formatting, we changed the font (bold, italic), increased indents, changed the fill color, added borders, and changed the number format (currency, percent, decimals).
 
-Balance sheet:
+**Our Balance Sheet with formulas shown:** 
+
 <img src="images/balance sheet formulas.png?raw=true"/>
+
+**Our Balance Sheet:**
 
 <img src="images/balance sheet.png?raw=true"/>
 
