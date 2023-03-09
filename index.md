@@ -36,9 +36,7 @@ In this case study, I'm hired by Longwood Laser Engraving's to provide financial
 
 ### Certifications
 
-- [Excel Certificate (DoorDash Challenge) - Data Career Jumpstart](https://www.datacareerjumpstart.com/excel-badge?cid=f651e658-c9fa-4e98-808b-883dc9fd2220)
+- [SQL Basics Certificate (Bank Challenge)- Data Career Jumpstart](https://www.datacareerjumpstart.com/sqlbadge?cid=f651e658-c9fa-4e98-808b-883dc9fd2220)
 - [Tableau Basics Certificate (Education Challenge) - Data Career Jumpstart](https://www.datacareerjumpstart.com/tableau1badge?cid=f651e658-c9fa-4e98-808b-883dc9fd2220)
+- [Excel Certificate (DoorDash Challenge) - Data Career Jumpstart](https://www.datacareerjumpstart.com/excel-badge?cid=f651e658-c9fa-4e98-808b-883dc9fd2220)
 - [The Complete SQL Bootcamp: From Zero to Hero - Udemy](https://www.udemy.com/certificate/UC-16e99013-278a-4e8e-8ed5-9f4ef805bd1d/)
-
-
-
