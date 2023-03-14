@@ -2,7 +2,11 @@
 
 ---
 
+[<img src="images/theworldbank.png"/>](https://www.linkedin.com/pulse/world-bank-analysis-using-sql-kelly-rangel/?trackingId=CMna0mS2S1GlwwFwALpe6g%3D%3D)
+### [The World Bank: An Analysis Using SQL](https://www.linkedin.com/pulse/world-bank-analysis-using-sql-kelly-rangel/?trackingId=CMna0mS2S1GlwwFwALpe6g%3D%3D)
+I'm thrilled to share my latest data analysis project! In this case study, I'm hired by The World Bank to analyze and provide insights on their IDA Statement Of Credits and Grants using SQL.
 
+---
 
 [<img src="images/Massachusetts Education An Analysis Using Tableau.png"/>](https://www.linkedin.com/pulse/massachusetts-education-analysis-using-tableau-kelly-rangel/)
 ### [Massachusetts Education: An Analysis Using Tableau](https://www.linkedin.com/pulse/massachusetts-education-analysis-using-tableau-kelly-rangel/)
@@ -36,6 +40,7 @@ In this case study, I'm hired by Longwood Laser Engraving's to provide financial
 
 ### Certifications
 
+- [Advanced SQL Certificate (Healthcare Challenge)- Data Career Jumpstart](https://www.datacareerjumpstart.com/sql2badge?cid=f651e658-c9fa-4e98-808b-883dc9fd2220)
 - [SQL Basics Certificate (Bank Challenge)- Data Career Jumpstart](https://www.datacareerjumpstart.com/sqlbadge?cid=f651e658-c9fa-4e98-808b-883dc9fd2220)
 - [Tableau Basics Certificate (Education Challenge) - Data Career Jumpstart](https://www.datacareerjumpstart.com/tableau1badge?cid=f651e658-c9fa-4e98-808b-883dc9fd2220)
 - [Excel Certificate (DoorDash Challenge) - Data Career Jumpstart](https://www.datacareerjumpstart.com/excel-badge?cid=f651e658-c9fa-4e98-808b-883dc9fd2220)
